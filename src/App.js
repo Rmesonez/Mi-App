@@ -1,7 +1,10 @@
+//en la terminal npx create-react-app nombre-carpeta
+//luego dentro de la carpeta creada npm start
+
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App() {//componente funcional
   return (
     <div className="App">
       <header className="App-header">
